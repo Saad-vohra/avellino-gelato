@@ -1,0 +1,14 @@
+{
+  "description": "Kathiyawad Ice Cream \u2014 real ice cream, real taste. Explore flavours, outlets and party orders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Kathiyawad Ice Cream",
+  "icons": {
+    "icon": "/favicon-cherry.png"
+  }
+}

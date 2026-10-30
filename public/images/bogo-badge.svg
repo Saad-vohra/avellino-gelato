@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="120" height="120" fill="none">
+  <path d="M 88.0 41.3 Q 98.0 50.0 88.0 58.7 Q 93.2 70.8 80.5 74.3 Q 79.9 87.5 66.9 85.1 Q 60.7 96.8 50.0 89.0 Q 39.3 96.8 33.1 85.1 Q 20.1 87.5 19.5 74.3 Q 6.8 70.8 12.0 58.7 Q 2.0 50.0 12.0 41.3 Q 6.8 29.2 19.5 25.7 Q 20.1 12.5 33.1 14.9 Q 39.3 3.2 50.0 11.0 Q 60.7 3.2 66.9 14.9 Q 79.9 12.5 80.5 25.7 Q 93.2 29.2 88.0 41.3 Z" fill="#3b1f14" filter="drop-shadow(0 4px 6px rgba(0,0,0,0.25))" />
+  <g transform="rotate(-6 50 50)" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" fill="#ffffff">
+    <text x="50" y="32" font-size="13" letter-spacing="0.5">BUY 1</text>
+    <text x="50" y="52" font-size="13" letter-spacing="0.5">GET 1</text>
+    <text x="50" y="77" font-size="20" font-weight="950" letter-spacing="0.2">FREE!</text>
+  </g>
+</svg>
