@@ -1107,7 +1107,7 @@ function Footer() {
         <div><h4>Company</h4><a href="/about">Our story</a><a href="/sell-our-gelato">Sell our gelato</a><a href="/#outlets">Find us</a><a href="/contact">Contact</a><a href="/contact">Party orders</a></div>
         <div><h4>Visit us</h4><p><strong>{contactInfo.hqName}</strong><br />{contactInfo.hqLines.map((line, i) => <span key={line}>{line}{i < contactInfo.hqLines.length - 1 && <br />}</span>)}</p><p><a href={contactInfo.phoneHref}>{contactInfo.phone}</a></p></div>
       </div>
-      <div className="container copyright"><span>© 2025 Avellino Gelato</span><span>Made with milk & a little magic.</span></div>
+      <div className="container copyright"><span>© 2025 Avellino Gelato</span><span>Powered by <a className="credit-link" href="https://www.noortechnolab.online/" target="_blank" rel="noreferrer">Noor Technolab</a></span></div>
     </footer>
   );
 }

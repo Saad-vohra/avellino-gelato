@@ -998,3 +998,5 @@ footer { background: var(--cream); color: var(--chocolate); padding-bottom: 0; -
 main.auth-page, main.checkout-page, main.confirm-page, main.account-page, main.flavour-missing {
   background: linear-gradient(to bottom, var(--cream) calc(100% - 70px), #fff calc(100% - 70px));
 }
+.copyright .credit-link { font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+.copyright .credit-link:hover { color: var(--accent); }
