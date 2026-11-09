@@ -861,7 +861,7 @@ function OffersExperience() {
           </SectionTitle>
         </div>
         <ParallaxPanel side="right" src={photos.sundae} alt="Two friends sharing a big ice cream sundae" kicker="The tasting bar" title="A little adventure in every bowl." text="Sample small-batch specials, build sundae flights, and discover your next favourite flavour." />
-        <ParallaxPanel side="left" src={photos.parlour} alt="Bright pastel ice cream parlour with a gelato counter" kicker="The Avellino moment" title="Your happy place, after every long day." text="Bright corners, generous sundaes and room for one more friend around the table." link="Find your table" />
+        <ParallaxPanel side="left" src={photos.parlour} alt="Bright pastel ice cream parlour with a gelato counter" kicker="The Avellino moment" title="Your happy place, after every long day." text="Bright corners, generous sundaes and room for one more friend around the table." link="Find us" />
       </Reveal>
     </>
   );
