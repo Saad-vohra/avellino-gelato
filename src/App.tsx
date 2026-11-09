@@ -489,7 +489,7 @@ function HeroSlide({ slide, index, show }: { slide: HeroSlideData; index: number
             Explore flavours <ArrowRight size={18} />
           </a>
           <a className="button button-outline" href="#outlets">
-            Find an outlet
+            Find us
           </a>
         </motion.div>
       </div>
@@ -1295,7 +1295,7 @@ function OurStory() {
           <h2>Taste the <Stroked>difference.</Stroked></h2>
           <div className="hero-buttons">
             <a className="button" href="/flavours">Explore flavours <ArrowRight size={18} /></a>
-            <a className="button button-outline" href="/#outlets">Find an outlet</a>
+            <a className="button button-outline" href="/#outlets">Find us</a>
           </div>
         </motion.div>
       </section>
