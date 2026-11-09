@@ -1,5 +1,5 @@
 {
-  "description": "Kathiyawad Ice Cream \u2014 real ice cream, real taste. Explore flavours, outlets and party orders.",
+  "description": "Avellino Gelato \u2014 small-batch gelato and ice cream. Explore flavours, outlets and party orders.",
   "robots": {
     "index": false
   },
@@ -7,8 +7,8 @@
     "addBypassLinks": false,
     "ignoreReducedMotion": false
   },
-  "title": "Kathiyawad Ice Cream",
+  "title": "Avellino Gelato",
   "icons": {
-    "icon": "/favicon-cherry.png"
+    "icon": "/favicon-avellino.svg"
   }
 }
